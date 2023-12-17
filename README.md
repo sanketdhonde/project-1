@@ -1,3 +1,4 @@
 # project-1
 This my first repository
-Ather - Sanket Dhonde
+<br>
+Author - Sanket Dhonde
